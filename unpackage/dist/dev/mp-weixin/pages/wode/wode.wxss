@@ -1,0 +1,10 @@
+
+.box{
+	width: 100%;
+	height: 200px;
+	background: #808080;
+}
+.box-active{
+	background: #007AFF;
+}
+

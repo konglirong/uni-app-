@@ -1,0 +1,1 @@
+<view><button type="default" data-event-opts="{{[['tap',[['addNum',['$event']]]]]}}" bindtap="__e">修改b组件的数据</button><view><uni-calendar vue-id="19172d90-1" insert="{{true}}" lunar="{{true}}" start-date="2019-3-2" end-date="2019-5-20" data-event-opts="{{[['^change',[['change']]]]}}" bind:change="__e" bind:__l="__l"></uni-calendar></view></view>

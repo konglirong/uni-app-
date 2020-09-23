@@ -1,0 +1,50 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/uni-style/uni-style",
+    "pages/message/message",
+    "pages/wode/wode",
+    "pages/shopcart/shopcart",
+    "pages/detail/detail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "hello uni-app",
+    "navigationBarBackgroundColor": "#Ff0000",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#808080",
+    "selectedColor": "#ff0000",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "black",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabbar/home.png",
+        "selectedIconPath": "static/tabbar/homeA.png"
+      },
+      {
+        "text": "信息",
+        "pagePath": "pages/message/message",
+        "iconPath": "static/tabbar/message.png",
+        "selectedIconPath": "static/tabbar/messageA.png"
+      },
+      {
+        "text": "购物车",
+        "pagePath": "pages/shopcart/shopcart",
+        "iconPath": "static/tabbar/cartArrowDown.png",
+        "selectedIconPath": "static/tabbar/cartArrowDownA.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/wode/wode",
+        "iconPath": "static/tabbar/wode.png",
+        "selectedIconPath": "static/tabbar/wodeA.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

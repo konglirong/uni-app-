@@ -1,0 +1,1 @@
+<view class="wrapper"><view>这是一个组件</view><button type="default" data-event-opts="{{[['tap',[['clickEvent']]]]}}" bindtap="__e">传值</button></view>

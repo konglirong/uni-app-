@@ -1,0 +1,1 @@
+<view><view class="word">{{''+msg+''}}</view><view class="box1">测试</view><view class="iconfont icon-browse"></view><view class="iconfont icon-3column"></view><button type="default" data-event-opts="{{[['tap',[['clickHandler',['$event']]]]]}}" bindtap="__e">按钮</button></view>
